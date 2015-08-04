@@ -7,13 +7,20 @@
 7Kb gziped!
 
 A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites or onepage sites).
+
+一个简单易用的插件，用来制作全屏滑动站点（也叫单页或一页站点）。
+
 It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
+
+它将帮助你创作全屏滑动站点，也支持在 section 加入优美的 slider。
 
 - [Live demo](http://alvarotrigo.com/fullPage/) - [Apple demo](http://alvarotrigo.com/fullPage/examples/apple.html)
 - [Blog Article](http://alvarotrigo.com/blog/fullpage-jquery-plugin-for-fullscreen-scrolling-websites/)
 - [Frequently Answered Questions](https://github.com/alvarotrigo/fullPage.js/wiki/FAQ---Frequently-Answered-Questions)
 
 Invite me to a coffee
+请原作者喝一杯咖啡
+
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BEK5JQCQMED4J&lc=GB&item_name=fullPage%2ejs&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 Customizations of the plugin and urgent changes are available upon request for some reasonable price. <a href="http://alvarotrigo.com/#contact-page">Contact me</a>.
