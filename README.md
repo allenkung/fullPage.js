@@ -25,28 +25,45 @@ Invite me to a coffee
 
 Customizations of the plugin and urgent changes are available upon request for some reasonable price. <a href="http://alvarotrigo.com/#contact-page">Contact me</a>.
 
+关以插件的定制和紧急更改取决于需求的合理价格。<a href="http://alvarotrigo.com/#contact-page">联系作者</a>
+
 Would you like to have a website using fullpage.js functionality but you don't know how to use it? I can do it for you for a reasonable price. <a href="http://alvarotrigo.com/#contact-page">Contact me</a>.
 
-- [Introduction](https://github.com/alvarotrigo/fullPage.js#introduction)
-- [Compatibility](https://github.com/alvarotrigo/fullPage.js#compatibility)
-- [Usage](https://github.com/alvarotrigo/fullPage.js#usage)
-- [Options](https://github.com/alvarotrigo/fullPage.js#options)
-- [Methods](https://github.com/alvarotrigo/fullPage.js#methods)
-- [Lazy loading](https://github.com/alvarotrigo/fullPage.js#lazy-loading)
-- [Callbacks](https://github.com/alvarotrigo/fullPage.js#callbacks)
-- [Resources](https://github.com/alvarotrigo/fullPage.js#resources)
-- [Who is using fullpage.js](https://github.com/alvarotrigo/fullPage.js#who-is-using-fullpagejs)
+如果你搞不懂怎么用 fullpage.js 但是想要一个这样的酷酷网站，作者可以用合理的价格帮你制作。<a href="http://alvarotrigo.com/#contact-page">联系作者</a>
 
-## Introduction
+- [Introduction 介绍](https://github.com/alvarotrigo/fullPage.js#introduction)
+- [Compatibility 兼容性](https://github.com/alvarotrigo/fullPage.js#compatibility)
+- [Usage 使用](https://github.com/alvarotrigo/fullPage.js#usage)
+- [Options 参数](https://github.com/alvarotrigo/fullPage.js#options)
+- [Methods 方法](https://github.com/alvarotrigo/fullPage.js#methods)
+- [Lazy loading 滞后载入](https://github.com/alvarotrigo/fullPage.js#lazy-loading)
+- [Callbacks 回调](https://github.com/alvarotrigo/fullPage.js#callbacks)
+- [Resources 资源](https://github.com/alvarotrigo/fullPage.js#resources)
+- [Who is using fullpage.js 都有谁在用 fullpage.js](https://github.com/alvarotrigo/fullPage.js#who-is-using-fullpagejs)
+
+## Introduction 介绍
 Suggestion are more than welcome, not only for feature requests but also for coding style improvements.
+
+欢迎广大群众多多提建议，不单单是功能需求，也欢迎代码风格的改进。
+
 Let's make this a great plugin to make people's lives easier!
 
-## Compatibility
+让我们把它做成一个伟大的插件，让人们的生活更简单！
+
+## Compatibility 兼容性
 fullPage.js is fully functional on all modern browsers, as well as some old ones such as Internet Explorer 8, 9, Opera 12, etc.
+
+fullPage.js 可以完整支持所有主流浏览器，包括一些比较旧的比如 IE 8、9，Opera 12 等等。
+
 It works with browsers with CSS3 support and with the ones which don't have it, making it ideal for old browsers compatibility.
+
+它可以同时适用于支持 CSS3 的浏览器和不支持的，使得他对旧浏览器很友好。
+
 It also provides touch support for mobile phones, tablets and touch screen computers.
 
-## Usage
+同时，它还为移动电话、平板电脑和其他触屏设备提供触摸操作支持。
+
+## Usage 使用
 As you can see in the example files, you will need to include:
  - [jQuery library](http://jquery.com/). (1.6.0 minimum)
  - The JavaScript file `jquery.fullPage.js` (or its minified version `jquery.fullPage.min.js`)
